@@ -29,6 +29,7 @@ public class Frame extends JPanel
 		
 		paint(null);
 		
+		//comments
 		
 	}
 	public void paint(Graphics g) {
